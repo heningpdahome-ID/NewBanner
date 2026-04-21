@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="white">#ffffff</color>
+    <color name="mags">#900237</color>
+    <color name="cream">#f7e4aa</color>
+    <color name="hakai">#063c53</color>
+    <color name="kaio">#30d9ba</color>
+    <color name="pesa">#840f0f</color>
+    <color name="vivid">#d01d23</color>
+    <color name="darkchocolate">#1c0808</color>
+    <color name="abue">#a4a4a4</color>
+    <color name="maroon">#ffa9a7</color>
+
+
+    <color name="purple_500">#9C27B0</color>
+    <color name="deep_purple_500">#673AB7</color>
+    <color name="indigo_500">#3F51B5</color>
+    <color name="blue_500">#2196F3</color>
+    <color name="cyan_500">#00BCD4</color>
+    <color name="light_blue_500">#03A9F4</color>
+
+    <color name="TorQuoise">#2DE1C2</color>
+    <color name="JapaneseIndigo">#274060</color>
+    <color name="Aero_Blue">#BFFFF1</color>
+    <color name="Yankee_Blue">#1B2845</color>
+    <color name="AquaMarine">#74F2CE</color>
+    <color name="BDazzledBlue">#335C81</color>
+
+    <color name="black_overlay">#66000000</color>
+</resources>

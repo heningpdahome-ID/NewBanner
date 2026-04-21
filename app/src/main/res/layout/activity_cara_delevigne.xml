@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".HowTo.CaraDelevigne">
+<ScrollView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/carade"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:text="Cara Pemesanan
+        1.	Anda harus terdaftar sebagai member dan dapat login
+        2.	Setelah masuk anda akan diarahkan ke menu utama
+        3.	Anda dapat memilih pesan banner template dan custom
+        4.	Jika anda memilih custom pesan:
+                1.anda pilih tipe banner yang akan dipesan dengan cara memilih diatas kanan
+                2.anda dapat mengupload design anda dan memilih file tambahan
+                3.anda dapat mengisikan lampiran berupa header, konten, subtitle
+                4.jika anda pilih banner biasa anda harus menginputkan width dan height, jika    Anda memilih x banner anda dapat memilih ukuran fixed yang telah disediakan
+                5.anda dapat memasukkan jumlah pesanan
+                6.anda dapat memilih finishing dan non finishing banner , jika anda memilih pesan   X banner anda akan disediakan opsi jagrakan dan tidak pakai jagrakan
+                7.anda dapat mengisikan keterangan tambahan pesanan 8.anda dapat memilih tombol pesan dan pesanan anda dikirim
+        5.	Jika anda memilih template pesan:
+                1.anda pilih tipe banner yang akan dipesan dengan cara memilih diatas kanan
+                2.anda isikan header banner, konten banner, subtitle banner
+                3.anda pilih kategori dari template banner
+                4.anda pilih template yang terkait dengan kategori
+                5.anda isikan width dan height jika anda pesan banner, anda pilih ukuran jika anda   Pesan x banner
+                6.anda isikan jumlah pesanan
+                7.anda pilih finishing dan non finishing banner(dibolong pojokan atau tidaknya), jika   Anda memilih x banner anda akan diberi opsi pakai jagrakan atau tidak.
+                8.anda dapat memilih kode warna yang tersedia untuk diaplikasikan di template
+                9.anda dapat mengisi keterangan tambahan pesanan
+                10.anda pilih tombol pesan untuk melanjutkan pemesanan
+         6.	Pesanan anda ditampung sementara di keranjang , anda dapat melanjutkan pesanan anda .
+         7.	Pesanan anda yang telah anda lanjut pesan akan ditampilkan di history pesan , anda dapat Melihat status pesanan anda. "
+        android:textAlignment="viewStart" />
+</ScrollView>
+</LinearLayout>

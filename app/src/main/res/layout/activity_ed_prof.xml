@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.eternal.newbanner.EdProf.EdProf">
+
+
+
+    <LinearLayout
+        android:layout_marginTop="50dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        >
+        <TextView
+            android:layout_gravity="center"
+            android:id="@+id/LamanEdit"
+            android:text="Silahkan Mengedit Profil Anda"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <EditText
+            android:layout_marginTop="20dp"
+            android:id="@+id/Edit_Nama"
+            android:hint="Edit Nama"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+        <EditText
+            android:layout_marginTop="20dp"
+            android:id="@+id/Edit_Email"
+            android:hint="Edit Email"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+        <EditText
+            android:layout_marginTop="20dp"
+            android:id="@+id/Edit_Password"
+            android:hint="Edit Password"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+        <EditText
+            android:layout_marginTop="20dp"
+            android:id="@+id/Edit_Phone"
+            android:hint="Edit Phone"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+        <EditText
+            android:layout_marginTop="20dp"
+            android:id="@+id/Edit_Alamat"
+            android:hint="Edit Alamat"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+        <Button
+            android:layout_marginTop="20dp"
+            android:id="@+id/Update"
+            android:text="Update"
+            android:textColor="@color/white"
+            android:background="#1c0808"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+
+</LinearLayout>

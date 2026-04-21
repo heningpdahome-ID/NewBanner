@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Aboutela.Sejarah"
+    android:orientation="vertical"
+    android:background="@color/mags">
+
+    <ImageView
+        android:id="@+id/Sejarahe"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:src="@drawable/ic_launcher_background"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="177dp" />
+
+</LinearLayout>

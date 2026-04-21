@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/Chat"
+        android:orderInCategory="100"
+        android:icon="@drawable/ic_chat_bubble_outline_black_24dp"
+        android:iconTint="@color/white"
+        android:iconTintMode="add"
+        android:title="Open Order"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/Carte"
+        android:orderInCategory="100"
+        android:icon="@drawable/ic_shopping_cart_black_24dp"
+        android:iconTint="@color/white"
+        android:iconTintMode="add"
+        android:title="Open Order"
+        app:showAsAction="always" />
+
+
+    <item
+        android:id="@+id/Riwayat"
+        android:orderInCategory="100"
+        android:icon="@drawable/ic_history_black_24dp"
+        android:iconTint="@color/white"
+        android:iconTintMode="add"
+        android:title="Open Order"
+        app:showAsAction="always" />
+
+</menu>
